@@ -26,4 +26,4 @@ personalInfo = {
 
 <br>
 
-![Jarkyc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarkyc&count_private=true)
+![Jarkyc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarkyc&count_private=true&theme=codeSTACKr&bg_color=00000000)
