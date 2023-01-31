@@ -1,4 +1,4 @@
-<img src="./assets/readme_header.png" align="middle" alt="Hello, I am Jarkyc!">
+<img src="./assets/readme_header.png" align="middle" alt="Hello, I am Jarkyc!" />
 
 
 
