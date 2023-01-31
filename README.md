@@ -1,7 +1,7 @@
 <a href="https://jarkyc.github.io"><img src="./assets/readme_header.png" align="middle" alt="Hello, I am Jarkyc!" /></a>
 
 ## ℹ️Information
-```
+```Lua
 personalInfo = {
   ["Name"] = "Charles",
   ["Pronouns"] = "He/They",
@@ -11,16 +11,16 @@ personalInfo = {
     "Java", 
     "Lua", 
     "Python",
-    "C++"
+    "C++",
   },
   ["Hobbies"] = {
     "Video Games", 
-    "Programming"
-  }
+    "Programming",
+  },
   ["NotableWorks"] = {
     ["StarQuest"] = "https://github.com/Jarkyc/StarQuestCode",
-    ["CapEHR"] = "https://github.com/Jarkyc/CapEHR"
-  }
+    ["CapEHR"] = "https://github.com/Jarkyc/CapEHR",
+  },
 }
 ```
 
