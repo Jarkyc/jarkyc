@@ -10,7 +10,8 @@ personalInfo = {
   ["Languages"] = {
     "Java", 
     "Lua", 
-    "Python"
+    "Python",
+    "C++"
   },
   ["Hobbies"] = {
     "Video Games", 
